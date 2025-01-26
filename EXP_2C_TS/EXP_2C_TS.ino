@@ -1,4 +1,4 @@
-const int SENSOR_PIN = 7;  // Pin connected to the sensor signal
+cthinkeronst int SENSOR_PIN = 7;  // Pin connected to the sensor signal
 int lastState = LOW;       // Stores the previous state of the sensor
 int currentState;          // Variable to store the current state
 
